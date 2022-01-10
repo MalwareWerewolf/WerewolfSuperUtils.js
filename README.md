@@ -15,3 +15,7 @@ Center all the `<img>` tags generated with the Markdown syntax.
 ## hugo-coder-center-headings.js
 
 Center all the headings and add under the post's title a `<hr>` tag to separate it from the main content. This script can work with other themes, but it mainly works with [hugo-coder](https://github.com/luizdepra/hugo-coder) and it also requires some SCSS code to adjust some headings on the mobile. You can find the SCSS code in this repo under `../SCSS/hugo-coder-center-headings.scss`. Copy the file into your `assets` folder and link it in the config.
+
+## open-a-new-tab.js
+
+All `<a>` tags inside a `<p>` tag, will automatically open a new tab. The `rel` attribute sets the relationship between your page and the linked URL. Setting it to `noopener noreferrer` is to prevent a type of phishing known as [tabnabbing](https://en.wikipedia.org/wiki/Tabnabbing).
