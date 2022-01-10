@@ -22,4 +22,4 @@ All `<a>` tags inside a `<p>` tag, will automatically open a new tab. The `rel` 
 
 ## remove-highlight.js
 
-Remove highlighted text from `<code>` tag.
+Remove highlighted text from `<code>`.
