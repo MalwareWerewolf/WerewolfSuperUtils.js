@@ -19,3 +19,7 @@ Center all the headings and add under the post's title a `<hr>` tag to separate 
 ## open-a-new-tab.js
 
 All `<a>` tags inside a `<p>` tag, will automatically open a new tab. The `rel` attribute sets the relationship between your page and the linked URL. Setting it to `noopener noreferrer` is to prevent a type of phishing known as [tabnabbing](https://en.wikipedia.org/wiki/Tabnabbing).
+
+## remove-highlight.js
+
+Remove highlighted text from `<code>` tag.
