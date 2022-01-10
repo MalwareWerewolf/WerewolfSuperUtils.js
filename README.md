@@ -10,7 +10,7 @@ Depending how Disqus will be updated, this script will need to be updated as wel
 
 ## center-images.js
 
-Center all the `<img>` tags generated with the Markdown syntax.
+Center all the `<img>` tags generated in a post, with the Markdown syntax.
 
 ## hugo-coder-center-headings.js
 
